@@ -1,0 +1,10 @@
+# Python / notebook runtime artifacts
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+*.pyc
+.DS_Store
+# Generated CSVs from notebook runs
+portfolio_stock_data.csv

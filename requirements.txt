@@ -1,0 +1,14 @@
+# Dependencies used in the original research notebook
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+yfinance
+yahooquery
+pyomo
+ipython
+notebook
+gdown
+# IMPORTANT: The IPOPT nonlinear optimization solver must be installed separately.
+# See README.md for execution limitations.
